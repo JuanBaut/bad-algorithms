@@ -16,3 +16,5 @@ function containsDuplicate(nums: number[]): any {
 }
 
 console.log(containsDuplicate([1, 2, 3, 1]));
+
+// this has terrible big O complexity
